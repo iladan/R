@@ -1,1 +1,1 @@
-# R
+Some R code snippets I find useful
